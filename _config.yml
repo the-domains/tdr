@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 1
+color:
+  saturation: 0.07727627
+  lightness: 0.580367
+  brandStrength: 0.858754
+  brandColors:
+    - '#FFFFFF'
+    - '#125688'
+    - '#25272A'
+    - '#5485A9'
+    - '#CCBBA7'
+  rhythmicContrast: 0.146222
+name: TDR
